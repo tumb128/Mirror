@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="1.1.0"></a>
+## [1.1.0](https://www.github.com/tumb128/Mirror/releases/tag/v1.1.0) (2023-9-7)
+
+### Features
+
+* NEW Fetatarar ([1357904](https://www.github.com/tumb128/Mirror/commit/13579041085252627a5f4fc8f9eb5949b406831c))
+* something really awesome coming in the next release ([873a3a4](https://www.github.com/tumb128/Mirror/commit/873a3a42344d3d67fe40b2cf0949f63a0c22aab1))
+
 <a name="1.0.1"></a>
 ## [1.0.1](https://www.github.com/tumb128/Mirror/releases/tag/v1.0.1) (2023-9-7)
 
