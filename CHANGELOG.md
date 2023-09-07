@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="1.0.1"></a>
+## [1.0.1](https://www.github.com/tumb128/Mirror/releases/tag/v1.0.1) (2023-9-7)
+
+### Bug Fixes
+
+* something went wrong we need a bugfix release ([367fc09](https://www.github.com/tumb128/Mirror/commit/367fc09b2132ab7e81bce49db6f3f444e023c1a5))
+
 <a name="1.0.0"></a>
 ## [1.0.0](https://www.github.com/tumb128/Mirror/releases/tag/v1.0.0) (2023-9-7)
 
