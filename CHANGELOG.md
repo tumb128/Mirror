@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="1.2.0"></a>
+## [1.2.0](https://www.github.com/tumb128/Mirror/releases/tag/v1.2.0) (2023-9-7)
+
+### Features
+
+* add thing2333 ([1efbb65](https://www.github.com/tumb128/Mirror/commit/1efbb655eeb8fd73f1aa4a1c6b42b48589cf84d3))
+
+### Bug Fixes
+
+* add thing ([bd7b3c3](https://www.github.com/tumb128/Mirror/commit/bd7b3c31ef93a2fd0be9b6b483f4f271ec9f2dfe))
+* add thing2333 ([f6c7735](https://www.github.com/tumb128/Mirror/commit/f6c773597559e921ecc925aa1ff17f352d94ae43))
+
 <a name="1.1.0"></a>
 ## [1.1.0](https://www.github.com/tumb128/Mirror/releases/tag/v1.1.0) (2023-9-7)
 
